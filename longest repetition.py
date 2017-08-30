@@ -1,4 +1,4 @@
-# Question 8: Longest Repetition
+# Longest Repetition
 
 # Define a procedure, longest_repetition, that takes as input a
 # list, and returns the element in the list that has the most
